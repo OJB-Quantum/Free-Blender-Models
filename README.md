@@ -3,6 +3,7 @@ A repository for publically-available Blender models made by Onri Jay Benally.
 
 Free example models: https://github.com/OJB-Quantum/Free-Blender-Models
 
+![image](https://github.com/user-attachments/assets/ef10fcb1-6879-4053-a90d-46d57a568b3b)
 
 ![53986733874_784dcf2b6b_k](https://github.com/user-attachments/assets/f34dd345-2999-4cfb-bd5d-08abd6b104d7)
 
